@@ -20,7 +20,6 @@ function Favourites() {
            {content}
         </section>
     );
-    console.log(MeetupList)
 }
 
 export default Favourites;
